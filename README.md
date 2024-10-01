@@ -6,7 +6,7 @@ Esta prueba se centra en análizar el rendimiento diario de las diferentes palas
 
 ## Objetivos del Análisis
 1. ** Ranking de Desempeño**: Elaborar un ranking del desempeño de los equipos con base en su eficiencia en el transporte en el rendimiento de los equipos.
-2. **Identificación de Factores Críticos*: Determinar cuáles son las variables que más influyen en el rendimiento de los equipos.
+2. **Identificación de Factores Críticos**: Determinar cuáles son las variables que más influyen en el rendimiento de los equipos.
 3. **Recomendaciones**: Proponer acciones para mejorar el rendimiento en el próximo año de operación.
 
 ## Tecnologías Utilizadas
