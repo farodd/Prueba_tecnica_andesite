@@ -22,4 +22,4 @@ Esta prueba se centra en análizar el rendimiento diario de las diferentes palas
 #Estructura del Proyecto
 
 Datasets: En este caso, no se harán presente debido a la confidencialidad de la base de datos
-[Dashboards de rendimientos](Analisis de rendimiento.pbix)
+Dashboards de rendimientos(Analisis de rendimiento.pbix)
