@@ -5,8 +5,8 @@
 Esta prueba se centra en análizar el rendimiento diario de las diferentes palas y camiones de transporte mineral. Utilizando datos sobre tonelaje, número de palas, tiempos de ciclo de carguio y transporte, cno los cuales se busca identificar los equipos de mejor rendimiento y los factores que influyen en esta métrica.
 
 ## Objetivos del Análisis
-1. ** Ranking de Desempeño**: Elaborar un ranking del desempeño de los equipos con base en su eficiencia en el transporte en el rendimiento de los equipos.
-2. **Identificación de Factores Críticos*: Determinar cuáles son las variables que más influyen en el rendimiento de los equipos.
+1. **Ranking de Desempeño**: Elaborar un ranking del desempeño de los equipos con base en su eficiencia en el transporte en el rendimiento de los equipos.
+2. **Identificación de Factores Críticos**: Determinar cuáles son las variables que más influyen en el rendimiento de los equipos.
 3. **Recomendaciones**: Proponer acciones para mejorar el rendimiento en el próximo año de operación.
 
 ## Tecnologías Utilizadas
@@ -19,11 +19,11 @@ Esta prueba se centra en análizar el rendimiento diario de las diferentes palas
 - Numpy
 - Scipy
 
-#Estructura del Proyecto
+## Estructura del Proyecto
 
 - Datasets: En este caso, no se harán presente debido a la confidencialidad de la base de datos
 
-- ([Dashboard de Rendimientos](https://github.com/farodd/Prueba_tecnica_andesite/blob/b4a781647076a31f89f9ccc04641a113f58e71ee/Analisis%20de%20rendimiento.pbix))
+- ([Dashboard de Rendimientos](https://github.com/farodd/Prueba_tecnica_andesite/blob/b4a781647076a31f89f9ccc04641a113f58e71ee/Analisis%20de%20rendimiento.pbix)): Aquí se encuentra el dashboard interactivo para que puedan ver los rendimientos de los camiones y palas
 
 - [Desarrollo](https://github.com/farodd/Prueba_tecnica_andesite/blob/8d2592a04a278401211cb69ae34444d2920e28a0/Desarrollo.ipynb): Aquí se encuentra todo el proceso de ETL, limpieza de datos, cambio de tipos de datos y evaluación de los outliers y cambios pertinentes para un correcto análisis
 
@@ -37,7 +37,7 @@ Esta prueba se centra en análizar el rendimiento diario de las diferentes palas
 
 Se espera que el analisis proporcione un ranking clarode los equipos, una identificación de los factores criticos que influyen en su rendimiento, así como recomendaciones concretas para mejorar la eficiencia operativa.
 
-#Contacto
+# Contacto
 
 Si tienes alguna pregunta op sugerencia, no dudes en ponerte en contacto:
 
